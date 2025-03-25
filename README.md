@@ -18,7 +18,7 @@ pluginManagement {
 ```kotlin
 plugins {
     kotlin("jvm") version "2.1.10"
-    id("com.google.devtools.ks") version "2.1.10-1.0.31"
+    id("com.google.devtools.ksp") version "2.1.10-1.0.31"
     id("dev.kikugie.kdoclink") version "0.1.0"
 }
 
